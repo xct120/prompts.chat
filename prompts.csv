@@ -77392,3 +77392,58 @@ Elegant Indonesian Portrait Photography,"{
     ""exclusions"": ""no athletics""
   }
 }",FALSE,STRUCTURED,"rhieskhiez.creative@gmail.com,rhieskhiez@gmail.com"
+Elegant Indonesian Woman Portrait in Parisian Setting,"{
+  ""prompt"": ""A portrait photograph of an elegant Indonesian woman with a petite curvy physique, seated gracefully in a refined pose. She wears a modest striped white and black spaghetti strap tank top paired with a white short skirt, both made from high-quality 190 GSM fabric (82% Polyester, 18% Spandex) with 4-way stretch properties. The garments drape beautifully with a professional finish. She is not wearing any headwear or eyewear. Her expression is poised and sophisticated. The setting is a charming Parisian street or sidewalk with classic European architecture in the background. Natural lighting enhances the scene. She carries a stylish bag that adds an element of professional elegance to her overall appearance. The composition is vertical with a 9:16 aspect ratio, with the subject positioned tastefully within the frame."",
+  
+  ""technical_specifications"": {
+    ""model"": ""gpt-image-1.5-high-fidelity"",
+    ""aspect_ratio"": ""9:16"",
+    ""orientation"": ""vertical"",
+    ""composition"": ""portrait""
+  },
+  
+  ""subject_details"": {
+    ""nationality"": ""Indonesian"",
+    ""body_type"": ""petite curvy physique"",
+    ""pose"": ""seated gracefully"",
+    ""facial_accessories"": ""none"",
+    ""headwear"": ""none"",
+    ""eyewear"": ""none"",
+    ""expression"": ""elegant and sophisticated""
+  },
+  
+  ""clothing"": {
+    ""top"": {
+      ""style"": ""spaghetti strap tank top"",
+      ""pattern"": ""striped white and black"",
+      ""fit"": ""modest and tasteful""
+    },
+    ""bottom"": {
+      ""style"": ""short skirt"",
+      ""color"": ""white"",
+      ""fit"": ""elegant""
+    },
+    ""fabric_specifications"": {
+      ""weight"": ""190 GSM"",
+      ""composition"": ""82% Polyester, 18% Spandex"",
+      ""features"": ""4-way stretch""
+    }
+  },
+  
+  ""accessories"": {
+    ""bag"": ""stylish professional bag"",
+    ""shoes"": ""elegant footwear""
+  },
+  
+  ""setting"": {
+    ""location"": ""Parisian street or sidewalk"",
+    ""architecture"": ""classic European style"",
+    ""lighting"": ""natural daylight""
+  },
+  
+  ""style_guidelines"": {
+    ""tone"": ""elegant and professional"",
+    ""content_rating"": ""family-friendly, non-provocative"",
+    ""artistic_direction"": ""sophisticated portrait photography""
+  }
+}",FALSE,STRUCTURED,"rhieskhiez.creative@gmail.com,rhieskhiez@gmail.com"

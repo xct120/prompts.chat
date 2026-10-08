@@ -164880,3 +164880,16 @@ Create a Halloween-themed illustration featuring three sports: boxing, Muay Thai
 
 </details>
 
+<details>
+<summary><strong>Village</strong></summary>
+
+## Village
+
+Contributed by [@abdihassan0612@gmail.com](https://github.com/abdihassan0612@gmail.com)
+
+```md
+I wanna build an website with ai assistant for a hotel called the village in kilimani nairobi it has to have whatsapp empessa empessa prompt I want It to be an ai frondesk ai call 
+```
+
+</details>
+

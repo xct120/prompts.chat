@@ -165613,3 +165613,17 @@ Ultra-realistic natural smartphone footage, natural daylight, realistic macaque 
 
 </details>
 
+<details>
+<summary><strong>TikTok Video Style Prompt Generator</strong></summary>
+
+## TikTok Video Style Prompt Generator
+
+Contributed by [@kibuuka.rogers96@gmail.com](https://github.com/kibuuka.rogers96@gmail.com)
+
+```md
+https://vt.tiktok.com/ZSbQrYHAw/ generate a prompt i can use to make such vidoes
+
+```
+
+</details>
+

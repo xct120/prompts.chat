@@ -163832,3 +163832,16 @@ Contributed by [@tuktuki48424842@gmail.com](https://github.com/tuktuki48424842@g
 
 </details>
 
+<details>
+<summary><strong>Recreate an Image as an HTML and CSS Project</strong></summary>
+
+## Recreate an Image as an HTML and CSS Project
+
+Contributed by [@talalalnhmi11@gmail.com](https://github.com/talalalnhmi11@gmail.com)
+
+```md
+create full project html css as well as this image 100%
+```
+
+</details>
+
